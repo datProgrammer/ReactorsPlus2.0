@@ -1,0 +1,41 @@
+tile.unobtaniumOre.name=Unobtainium Ore
+tile.platinumOre.name=Platinum Ore
+tile.enricher.name=Enricher
+tile.stabilizer.name=Stabilizer
+tile.atomicCompressor.name=Atomic Compressor
+tile.isotopeReactor.name=Isotope Reactor
+tile.platingMachine.name=Plating Machine
+tile.gasCollector.name=Gas Collector
+tile.creativeEnergy.name=Creative Energy Cell
+
+item.unobtanium.name=Unobtainium
+item.francium.name=Francium
+item.platinum.name=Platinum
+item.enrichedUnstableUnobtanium.name=Enriched Unstable Unobtainium
+item.enrichedUnobtanium.name=Enriched Unobtainium
+item.unobtaniumIngot.name=Unobtainium Ingot
+item.unobtaniumPlate.name=Unobtainium Plate
+item.unobtaniumHeatVent.name=Unobtainium Heat Vent
+item.unobtaniumHeatEvapourator.name=Unobtainium Heat Evapourator
+item.emptyCanister.name=Empty Canister
+item.oxygenCanister.name=Oxygen Canister
+item.hydrogenCanister.name=Hydrogen Canister
+item.heliumCanister.name=Helium Canister
+item.nitrogenCanister.name=Nitrogen Canister
+item.diamondEdge.name=Diamond Edge Blade
+item.airPump.name=Air Pump
+item.airPump.oxygen.name=Oxygen Pump
+item.airPump.hydrogen.name=Hydrogen Pump
+item.airPump.helium.name=Helium Pump
+item.airPump.nitrogen.name=Nitrogen Pump
+item.extremeCircuit.name=Extreme Circuit
+item.highDensityMesh.name=High Density Mesh
+
+container.enricher=Enricher
+container.stabilizer=Stabilizer
+container.atomicCompressor=Atomic Compressor
+container.isotopeReactor=Isotope Reactor
+container.platingMachine=Plating Machine
+container.gasCollector=Gas Collector
+
+itemGroup.Reactors+=Reactors+
